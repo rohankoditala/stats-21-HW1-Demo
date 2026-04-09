@@ -1,2 +1,3 @@
 This is the first file.
 Adding a new line to the first file.
+This is the third commit adding content to file 1.
